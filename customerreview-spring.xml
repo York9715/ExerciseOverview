@@ -12,6 +12,9 @@
  license agreement you entered into with hybris.
 -->
 
+Added in branchC
+  1. first commit;
+  
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:aop="http://www.springframework.org/schema/aop"
